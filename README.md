@@ -1,5 +1,6 @@
 
 # CodeMaxGemini: Your AI-Powered Coding Assistant
+🦋README.md generated using CodeMaxGemini bot.
 
 CodeMaxGemini is a Streamlit application that leverages Google's Gemini API to provide an AI-powered coding assistant.  This tool helps you generate code, debug, refactor, document, and perform other coding tasks efficiently.
 
